@@ -99,8 +99,4 @@ export default defineComponent({
   margin-top: 10px;
   padding: 10px;
 }
-thead[class*="ant-table-thead"] th {
-  background-color: #52d7ff !important;
-  color: #ffffff !important;
-}
 </style>

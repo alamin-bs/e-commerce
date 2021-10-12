@@ -13,7 +13,6 @@
         <product :product="product" />
       </a-col>
     </a-row>
-    <!-- <h6>Category</h6> -->
   </div>
 </template>
 
@@ -34,8 +33,6 @@ export default defineComponent({
 
     async function getProducts(params) {
       try {
-        //const category = router.params.category;
-
         isLoading.value = true;
         const data = await getProductsByCategory(params);
         productList.value = data;

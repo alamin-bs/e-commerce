@@ -4,7 +4,7 @@
     shoes, bags, dog treats We're dedicated to giving you the very best of
     cloths, jewelery & electronics, with a focus on dependability, customer
     service and uniqueness. Founded in 2021 by Md. Al-Amin, BrainStation
-    commerce has come a long way from its beginningsn. When Md. Al-Amin first
+    commerce has come a long way from its beginning. When Md. Al-Amin first
     started out, his passion for helping other parents be more eco-friendly
     drove him to do intense research and gave him the impetus to turn hard work
     and inspiration into to a booming online store. We now serve customers all

@@ -42,7 +42,6 @@ import { defineComponent } from "vue";
 import { useRouter } from "vue-router";
 import { useStore } from "vuex";
 import { ShoppingCartOutlined } from "@ant-design/icons-vue";
-//import Product from "@/interface/product";
 
 export default defineComponent({
   props: {

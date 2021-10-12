@@ -1,6 +1,4 @@
 <template>
-  <!-- <a-layout>
-    <a-layout-header :style="{ position: 'fixed', zIndex: 1, width: '100%' }"> -->
   <a-menu v-model="current" mode="horizontal" theme="light">
     <a-menu-item key="phone">
       <phone-outlined />
@@ -101,8 +99,6 @@
           >Jewelery</router-link
         ></a-menu-item
       >
-      <!-- </a-menu-item-group> -->
-      <!-- <a-menu-item-group title="Item 2"> -->
       <a-menu-item key="men's clothing">
         <router-link to="/products/category/men's clothing"
           >Men's clothing</router-link
